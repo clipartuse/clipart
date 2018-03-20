@@ -1,2 +1,9 @@
-# clipart
+# What is clipart ?
 Clip art (also clipart, clip-art), in the graphic arts, is pre-made images used to illustrate any medium. Today, clip art is used extensively. Clip art comes in many forms, both electronic and printed. However, most clip art today is created, distributed, and used in an electronic form.
+
+
+The term "clipart" originated through the practice of physically cutting images from pre-existing printed works for use in other publishing projects. Before the advent of computers in desktop publishing, clip art was used through a process called paste up. Many clip art images of this era qualified as line art. In this process, the clip art images are cut out by hand, then attached via adhesives to a board representing a scale size of the finished, printed work. After the addition of text and art created through phototypesetting, the finished, camera-ready pages are called mechanicals. Since the 1990s, nearly all publishers have replaced the paste up process with desktop publishing.
+
+After the introduction of mass-produced personal computers such as the IBM PC in 1981 and the Apple Macintosh in 1984, the widespread use of clip art by consumers became possible through the invention of desktop publishing. For the IBM PC, the first library of professionally drawn clip art was provided with VCN ExecuVision, introduced in 1983. These images were used in business presentations, as well as for other types of presentations. It was the Apple Computer, with its GUI which provided desktop publishing with the tools required to make it a reality for consumers. The LaserWriter laser printer (introduced in late 1985), as well as software maker Aldus' PageMaker in 1985, which helped to make professional quality desktop publishing a reality, with consumer desktop computers.
+
+<p>https://clipartuse.com/</p>
